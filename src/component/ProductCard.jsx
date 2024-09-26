@@ -3,7 +3,6 @@ import React from "react";
 
 const ProductCard = (props) => {
   const item = props.item.contents;
-  console.log(item);
   return (
     <div style={{backgroundColor: item?.bg_color}}>
       <img width={300} src={item?.main_image_url} />
