@@ -11,6 +11,7 @@ function App() {
       <Navbar/>
 
       <Routes>
+        <Route path="/" element={<ProductAll/>}/>
         <Route path="/RidiBooks" element={<ProductAll/>}/>
         <Route path="/RidiBooks/login" element={<Login/>}/>
         <Route path="/RidiBooks/product/:id" element={<ProductDetail/>}/>
