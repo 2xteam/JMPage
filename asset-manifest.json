@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f23690b.css",
-    "main.js": "/static/js/main.280d9228.js",
-    "static/js/453.dfbb3211.chunk.js": "/static/js/453.dfbb3211.chunk.js",
-    "index.html": "/index.html",
-    "main.7f23690b.css.map": "/static/css/main.7f23690b.css.map",
-    "main.280d9228.js.map": "/static/js/main.280d9228.js.map",
-    "453.dfbb3211.chunk.js.map": "/static/js/453.dfbb3211.chunk.js.map"
+    "main.css": "RidiBooks/static/css/main.7f23690b.css",
+    "main.js": "RidiBooks/static/js/main.d6e9f747.js",
+    "static/js/453.dfbb3211.chunk.js": "RidiBooks/static/js/453.dfbb3211.chunk.js",
+    "index.html": "RidiBooks/index.html",
+    "main.7f23690b.css.map": "RidiBooks/static/css/main.7f23690b.css.map",
+    "main.d6e9f747.js.map": "RidiBooks/static/js/main.d6e9f747.js.map",
+    "453.dfbb3211.chunk.js.map": "RidiBooks/static/js/453.dfbb3211.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f23690b.css",
-    "static/js/main.280d9228.js"
+    "static/js/main.d6e9f747.js"
   ]
 }
