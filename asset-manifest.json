@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "../RidiBooks/static/css/main.7f23690b.css",
-    "main.js": "../RidiBooks/static/js/main.3b26ebcc.js",
-    "static/js/453.dfbb3211.chunk.js": "../RidiBooks/static/js/453.dfbb3211.chunk.js",
-    "index.html": "../RidiBooks/index.html",
-    "main.7f23690b.css.map": "../RidiBooks/static/css/main.7f23690b.css.map",
-    "main.3b26ebcc.js.map": "../RidiBooks/static/js/main.3b26ebcc.js.map",
-    "453.dfbb3211.chunk.js.map": "../RidiBooks/static/js/453.dfbb3211.chunk.js.map"
+    "main.css": "../JMPage/static/css/main.7f23690b.css",
+    "main.js": "../JMPage/static/js/main.a8a640f7.js",
+    "static/js/453.e1ed1a8c.chunk.js": "../JMPage/static/js/453.e1ed1a8c.chunk.js",
+    "index.html": "../JMPage/index.html",
+    "main.7f23690b.css.map": "../JMPage/static/css/main.7f23690b.css.map",
+    "main.a8a640f7.js.map": "../JMPage/static/js/main.a8a640f7.js.map",
+    "453.e1ed1a8c.chunk.js.map": "../JMPage/static/js/453.e1ed1a8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f23690b.css",
-    "static/js/main.3b26ebcc.js"
+    "static/js/main.a8a640f7.js"
   ]
 }
