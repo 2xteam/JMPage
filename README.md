@@ -2,8 +2,9 @@
 개인 api를 활용하여 개발 하려다가 cors 문제로 db.json으로 변경하여 작업 들어갑니다.
 
 ## 데이터 json 실행 
-실행 폴더 : root
-명령어 : json-server ./db.json --port 5000
+<!-- 실행 폴더 : root
+명령어 : json-server ./db.json --port 5000 -->
+db.json 파일 조회로 변경
 
 ## day1 
 목표 : 데이터 리스팅
@@ -11,9 +12,11 @@
 목표 : swiper 추가
 ## day3 
 목표 : github 도메인에 gh-pages 배포셋팅 https://2xteam.github.io/JMPage/
+## day4 
+목표 : api는 json 파일 조회로 변경
+
 
 ## To Do List
-자체 API서버 생성 api연결하기
 컨텐츠 좀더 추가해보기
 Ridi의 화면구성 따라해보기
 

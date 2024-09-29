@@ -7,17 +7,21 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
 
+import data from '../data/db.json'
 
 import ProductCard from '../component/ProductCard';
 
 const ProductAll = () => {
+  console.log(data);
   const [productList, setProductList] = useState([]);
   const getProducts=async()=>{
-    let url = `http://localhost:5000/products`
-    let response = await fetch(url);
-    let data = await response.json();
+    // let url = `http://localhost:5000/products`
+    // let response = await fetch(url);
+    // let data = await response.json();
 
-    setProductList(data.data.section_items);
+    setProductList(data.products.data.section_items);
+
+
   }
   useEffect(()=>{
     getProducts();
