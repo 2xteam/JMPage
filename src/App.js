@@ -12,9 +12,9 @@ function App() {
 
       <Routes>
         <Route path="/" element={<ProductAll/>}/>
-        <Route path="/RidiBooks" element={<ProductAll/>}/>
-        <Route path="/RidiBooks/login" element={<Login/>}/>
-        <Route path="/RidiBooks/product/:id" element={<ProductDetail/>}/>
+        <Route path="/JMPage" element={<ProductAll/>}/>
+        <Route path="/JMPage/login" element={<Login/>}/>
+        <Route path="/JMPage/product/:id" element={<ProductDetail/>}/>
       </Routes>
     </div>
   );
