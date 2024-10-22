@@ -14,9 +14,9 @@ db.json 파일 조회로 변경
 목표 : github 도메인에 gh-pages 배포셋팅 https://2xteam.github.io/JMPage/
 ## day4 
 목표 : api는 json 파일 조회로 변경
-
+## day5
+목표 : 외부 api사용
 
 ## To Do List
 컨텐츠 좀더 추가해보기
-Ridi의 화면구성 따라해보기
 

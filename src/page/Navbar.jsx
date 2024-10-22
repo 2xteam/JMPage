@@ -5,7 +5,7 @@ import { faUser } from '@fortawesome/free-regular-svg-icons'
 import { faSearch } from '@fortawesome/free-solid-svg-icons'
 
 const Navbar = () => {
-    const menuList = ['추천','로맨스','BL','판타지/SF', '액션/무협','공포/추리', '드라마','GL']
+    const menuList = ['카테고리1','카테고리2','카테고리3','카테고리4','카테고리5','카테고리6'];
   return (
     <div>
       <div>
@@ -16,7 +16,7 @@ const Navbar = () => {
 
       </div>
       <div className='nav-logo'>
-        <img width={150} src='https://active.ridibooks.com/navbar/icons/web/ridi.f50c563403f615565a7328888ba19f87.svg'/>
+        <img width={150} src={`${process.env.PUBLIC_URL}/JMLogo.webp`}/>
       </div>
       <div className='search'>
             <div className='search-bar'>
